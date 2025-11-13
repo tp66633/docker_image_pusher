@@ -3,3 +3,4 @@ vulhub/shiro:1.0.0
 vulhub/shiro:1.2.4
 vulhub/struts2:2.5.25
 vulhub/spring-webmvc:5.3.17
+vulhub/solr:8.11.0
